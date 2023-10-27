@@ -14,3 +14,13 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 - Usage of basic design patterns in OOP, such as Observer, Builder, etc.
 - Usage of several generic collections and data structures such as linked lists and arraylists.
 - Working with GUI.
+
+
+Download:
+
+1. Download the files above.
+2. Enter to https://ant.apache.org/bindownload.cgi
+3. Download apache Ant for windows.
+4. Open CMD/Git Bash in the cloned directory and run this command to enter the game:
+ant compile
+ant run
