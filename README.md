@@ -4,7 +4,7 @@
 <img width="400" alt="Screenshot 2023-10-27 095256" src="https://github.com/EliyaRabia/Arkanoid/assets/87569799/f7d4b7e7-152d-4d4f-a2f0-a2d0b970774a">
 
 
-About :
+# About:
 
 I implemented a version of the Arkanoid game, as part of the OOP course.
 The game contains various levels with increasing difficulty, in a gui friendly platform.
@@ -16,7 +16,7 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 - Working with GUI.
 
 
-Download:
+# Download:
 
 1. Download the files above.
 2. Enter to https://ant.apache.org/bindownload.cgi
